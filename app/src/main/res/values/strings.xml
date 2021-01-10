@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cuisine De Europa</string>
+    <string name="select_city">Select a City</string>
+    <string name="add_restaurant">Add a Restaurant</string>
+    <string name="browse_favourites">Browse Favourites</string>
+    <string name="submit">Submit</string>
+    <string name="restaurantName">Name:</string>
+    <string name="ranking">Trip-Advisor Ranking:</string>
+    <string name="rating">Trip-Advisor User Rating:</string>
+    <string name="cuisine">Cuisine:</string>
+    <string name="reviews">Trip-Advisor Reviews:</string>
+    <string name="city">City:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="priceRange">Price Range:</string>
+    <string name="back">Back</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="personalNote">Personal Note:</string>
+    <string name="personalRating">Personal Rating: </string>
+    <string name="updateRestaurant">Update favourite restaurant</string>
+    <string name="updatePersonalNote">Update Personal Note:</string>
+    <string name="updatePersonalRating">Update Personal Rating:</string>
+</resources>
