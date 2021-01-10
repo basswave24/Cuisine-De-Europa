@@ -13,3 +13,6 @@ When he adds it to favourite he can add a personal note and/or personal rating.T
 # Upcoming Changes
 As it stands right now, the database is automatically inserted using a method. I would love to make it get data directly from the internet and keep it updated.<br/>
 I would also love to improve the google maps system, such as to give them directions to the restaurants, rather than just place a marker on the map with restaurant location.
+
+# Video of how the application works
+https://youtu.be/uSGOPVtgjLI
